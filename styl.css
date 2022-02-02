@@ -1,0 +1,294 @@
+
+#header{
+    margin-bottom: 50px;
+    background-color: black;
+    background-image: url("images/bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+#header span
+{ 
+    display: block;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.header-text
+{
+    
+    
+    font-size: 60px;
+    padding-top: 70px;
+}
+.header-details
+{
+    font-size: 50px;
+    padding-top: 30px; 
+}
+.header-box
+{
+    background-color: white;
+    height: 50px;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#card1
+{
+   margin-left: 30px;
+   background-image: url("images/pizza1.jpg");
+}
+#card2
+{ 
+   
+    margin-left: 60px;
+    background-image: url("images/tika.jpg");
+}
+#card3
+{ 
+
+    
+    margin-left: 60px;
+    background-image: url("images/11.jpg");
+}
+.card
+{
+    background-color: black;
+    display: inline-block;
+    height: 250px;
+    width: 380px;
+}
+#collctns
+{
+    display: inline-block;
+    background-color: white;
+    height: 150px;
+    width: 890px;
+    margin-top: 30;
+    margin-left: 30px;
+    vertical-align: bottom;
+}
+.collctns-text
+{
+    font-size: 55px;
+    
+}
+.collctns-details
+{
+    font-size: 29px;
+   
+}
+#collctns-box
+{
+    display: inline-block;
+    background-color: white;
+    height: 150px;
+    width: 370px;
+    margin-top: 20px; 
+    margin-left: 5px;
+    text-align: center;
+    
+}
+.collctns-boxtext
+{
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 25px;
+    color: red;
+    
+}  
+#card21
+{ 
+        margin-left: 30px;
+        background-image: url("images/fish.jpg");
+}
+
+#card22
+{ 
+    margin-left: 55px;
+    background-image: url("images/biriyani.jpg");
+}
+#card23
+{ 
+   margin-left: 55px;
+   background-image: url("images/paneer.jpg");
+}
+.card2
+{
+    background-color: black;
+    display: inline-block;
+    height: 250px;
+    width: 385px;
+    margin-top: 50;
+}
+#location-main
+{
+    display: inline;
+    background-color: white;
+    height: 350px;
+    width: 987px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.location-textmain
+{
+    display: inline-block;
+    margin-top: 58px;
+    font-size: 60px; 
+}
+#location1
+{
+   margin-left: 30px;
+   margin-top: 60;
+  
+}
+#location2
+{ 
+   
+    margin-left: 50px;
+    
+}
+#location3
+{ 
+
+    
+    margin-left: 50px;
+ 
+}
+
+#location11
+{
+   margin-left: 30px;
+  
+}
+#location12
+{ 
+   
+    margin-left: 50px;
+    
+}
+#location13
+{ 
+
+    
+    margin-left: 50px;
+ 
+}
+#location21
+{
+   margin-left: 30px;
+  
+}
+#location22
+{ 
+   
+    margin-left: 50px;
+    
+}
+#location23
+{ 
+
+    
+    margin-left: 50px;
+ 
+}
+#location31
+{
+   margin-left: 30px;
+  
+}
+#location32
+{ 
+   
+    margin-left: 50px;
+    
+}
+
+.locatn
+{
+    background-color: rgb(243, 208, 208);
+    display: inline-block;
+    height: 90px;
+    width: 392px;
+    margin-top: 30;
+    font-size: 25px;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+#get-app
+{
+    margin-top: 140px;
+    background-color: rgb(253, 214, 222);
+    height: 570px;
+    width: 100%;
+}
+#getapp-image
+{
+
+    background-color: rgb(253, 214, 222);
+    background-image: url("images/phon.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 290px;
+    width: 260px;
+}
+#getapp-text
+{
+    background-color: rgb(253, 214, 222) ;
+    width: 470px;
+    vertical-align: bottom;
+    margin-left: 30px;
+}
+.getapp
+{
+    display: inline-block;
+    height: 480px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+ 
+}
+.getapp-body
+{
+    display: inline-block;
+    font-size: 55px;
+}
+.getapp-body1
+{
+    display: inline-block;
+    font-size: 20px;
+}
+.email
+{
+    padding-top: 0.2rem;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.phone
+{
+    padding-top: 0.2rem;
+    padding-left: 80px;
+    font-size: 20px;
+}
+.apptext
+{
+    font-size: 20px;
+    
+} 
+.appicone
+{
+    height: 115px;
+    width: 320px;
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:  url("images/app.png");
+    margin-left: 30px;
+    margin-top: 20px;
+}
